@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Review\Bin\DAL.dll.config
+C:\Users\user\Desktop\Review\Bin\DAL.dll
+C:\Users\user\Desktop\Review\Bin\DAL.pdb
+C:\Users\user\Desktop\Review\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Review\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\Review\DAL\obj\Debug\DAL.pdb
+C:\Users\B\Downloads\Review-20170315T065851Z-001\Review\Bin\DAL.dll.config
+C:\Users\B\Downloads\Review-20170315T065851Z-001\Review\Bin\DAL.dll
+C:\Users\B\Downloads\Review-20170315T065851Z-001\Review\Bin\DAL.pdb
+C:\Users\B\Downloads\Review-20170315T065851Z-001\Review\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\B\Downloads\Review-20170315T065851Z-001\Review\DAL\obj\Debug\DAL.dll
+C:\Users\B\Downloads\Review-20170315T065851Z-001\Review\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Bin\DAL.dll
+C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Bin\DAL.pdb
+C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DAL\obj\Debug\DAL.dll
+C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DAL\obj\Debug\DAL.pdb
